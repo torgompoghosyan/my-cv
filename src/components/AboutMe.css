@@ -16,6 +16,17 @@
     font-size: 16px;
 }
 
+.AboutMe ul {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.AboutMe li {
+    margin: 0 30px;
+}
+
 .my-project {
     margin-left: 20px;
     display: flex;

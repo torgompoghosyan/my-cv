@@ -14,6 +14,10 @@ function AboutMe() {
                 <li>
                     <a target="_blank" rel="noopener noreferrer" href='https://torg777.github.io/country-game/'>Country Game</a>
                 </li>
+                <li>
+                    <a target="_blank" rel="noopener noreferrer" href='https://torg777.github.io/calculator-js/'>Calculator JS</a>
+                </li>
+                
             </ul>
 
             <p>I am also working to improve my English skills.</p>
