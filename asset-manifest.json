@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//torg777.github.io/my-cv//static/css/main.e0ecbf50.css",
-    "main.js": "//torg777.github.io/my-cv//static/js/main.6f3670d5.js",
-    "static/js/453.dc9cd6b4.chunk.js": "//torg777.github.io/my-cv//static/js/453.dc9cd6b4.chunk.js",
-    "static/media/_121.jpg": "//torg777.github.io/my-cv//static/media/5190866735320916502_121.0cb6ee1c41bf8b14f985.jpg",
-    "index.html": "//torg777.github.io/my-cv//index.html",
-    "main.e0ecbf50.css.map": "//torg777.github.io/my-cv//static/css/main.e0ecbf50.css.map",
-    "main.6f3670d5.js.map": "//torg777.github.io/my-cv//static/js/main.6f3670d5.js.map",
-    "453.dc9cd6b4.chunk.js.map": "//torg777.github.io/my-cv//static/js/453.dc9cd6b4.chunk.js.map"
+    "main.css": "//torgompoghosyan.github.io/my-cv//static/css/main.e975ed8e.css",
+    "main.js": "//torgompoghosyan.github.io/my-cv//static/js/main.eb043060.js",
+    "static/js/453.dc9cd6b4.chunk.js": "//torgompoghosyan.github.io/my-cv//static/js/453.dc9cd6b4.chunk.js",
+    "static/media/_121.jpg": "//torgompoghosyan.github.io/my-cv//static/media/5190866735320916502_121.0cb6ee1c41bf8b14f985.jpg",
+    "index.html": "//torgompoghosyan.github.io/my-cv//index.html",
+    "main.e975ed8e.css.map": "//torgompoghosyan.github.io/my-cv//static/css/main.e975ed8e.css.map",
+    "main.eb043060.js.map": "//torgompoghosyan.github.io/my-cv//static/js/main.eb043060.js.map",
+    "453.dc9cd6b4.chunk.js.map": "//torgompoghosyan.github.io/my-cv//static/js/453.dc9cd6b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0ecbf50.css",
-    "static/js/main.6f3670d5.js"
+    "static/css/main.e975ed8e.css",
+    "static/js/main.eb043060.js"
   ]
 }
