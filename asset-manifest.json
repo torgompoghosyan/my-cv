@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "//torgompoghosyan.github.io/my-cv//static/css/main.e975ed8e.css",
-    "main.js": "//torgompoghosyan.github.io/my-cv//static/js/main.eb043060.js",
+    "main.js": "//torgompoghosyan.github.io/my-cv//static/js/main.f7b31cd3.js",
     "static/js/453.dc9cd6b4.chunk.js": "//torgompoghosyan.github.io/my-cv//static/js/453.dc9cd6b4.chunk.js",
     "static/media/_121.jpg": "//torgompoghosyan.github.io/my-cv//static/media/5190866735320916502_121.0cb6ee1c41bf8b14f985.jpg",
     "index.html": "//torgompoghosyan.github.io/my-cv//index.html",
     "main.e975ed8e.css.map": "//torgompoghosyan.github.io/my-cv//static/css/main.e975ed8e.css.map",
-    "main.eb043060.js.map": "//torgompoghosyan.github.io/my-cv//static/js/main.eb043060.js.map",
+    "main.f7b31cd3.js.map": "//torgompoghosyan.github.io/my-cv//static/js/main.f7b31cd3.js.map",
     "453.dc9cd6b4.chunk.js.map": "//torgompoghosyan.github.io/my-cv//static/js/453.dc9cd6b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e975ed8e.css",
-    "static/js/main.eb043060.js"
+    "static/js/main.f7b31cd3.js"
   ]
 }
