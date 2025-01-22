@@ -1,0 +1,25 @@
+.Languages h1{
+    font-size: 25px;
+    color: #757575;
+}
+
+.lang {
+    background-color: #f1f1f1;
+    border-radius: 50px;
+}
+
+.Languages p{
+    color: #757575;
+    margin-bottom: 15px;
+}
+
+.scale{
+    height: 24px;
+    border-radius: 50px;
+    background-color: #009688;
+    text-align: center;
+}
+
+.scale p {
+    color: white;
+}

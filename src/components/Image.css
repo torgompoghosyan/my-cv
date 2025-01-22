@@ -1,0 +1,17 @@
+.Image {
+    height: 300px;
+    padding-left: 20px;
+    position: relative;
+    background-image: url("/public/images/471688104_1096235202511617_6132214589230122651_n.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-y: 37%;
+}
+
+.Image p {
+    font-size: 30px;
+    position: absolute;
+    bottom: 0px;
+    color: white;
+}

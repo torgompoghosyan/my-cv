@@ -1,0 +1,39 @@
+.AboutMe {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 5px #000000;
+}
+
+.AboutMe h2 {
+    font-size: 32px;
+}
+
+.AboutMe p {
+    font-family: "Inria Sans";
+    font-weight: 500;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 1.5;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.my-project {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.AboutMe li {
+    margin-bottom: 15px;
+    width: 20%;
+}
+
+.AboutMe li a{
+    color: black;
+}
+
+
+.my-project a:hover {
+    font-weight: 700;
+}

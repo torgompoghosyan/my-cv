@@ -1,0 +1,9 @@
+.RightBlock {
+    width: calc(100% - 70px);
+}
+
+@media screen and (min-width: 600px) {
+    .RightBlock {
+        width: calc(70% - 5px);
+    }
+  }
